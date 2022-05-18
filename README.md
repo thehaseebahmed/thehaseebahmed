@@ -26,4 +26,6 @@
 - Sr. Software Engineer at [Replenium Inc.](https://www.replenium.com/meet-the-team)
 - Loves brewing & consuming coffee!
 
-![Metrics](github-metrics.svg)
+![Metrics](metrics.svg)
+![Most Used Languages](languages.svg)
+![Achievements](achievements.svg)
