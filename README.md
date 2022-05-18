@@ -26,6 +26,6 @@
 - Sr. Software Engineer at [Replenium Inc.](https://www.replenium.com/meet-the-team)
 - Loves brewing & consuming coffee!
 
-![Metrics](https://raw.githubusercontent.com/thehaseebahmed/thehaseebahmed/metrics/metrics.svg)
+![Metrics](https://raw.githubusercontent.com/thehaseebahmed/thehaseebahmed/metrics/stats.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/thehaseebahmed/thehaseebahmed/metrics/language.svg)
 ![Achievements](https://raw.githubusercontent.com/thehaseebahmed/thehaseebahmed/metrics/achievements.svg)

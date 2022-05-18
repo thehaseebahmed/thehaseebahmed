@@ -32,7 +32,7 @@ jobs:
           base: header, activity, community
           config_timezone: Asia/Karachi
           config_output: svg
-          filename: metrics.svg
+          filename: stats.svg
 
   language:
     runs-on: ubuntu-latest
