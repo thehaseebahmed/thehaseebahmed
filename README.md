@@ -18,7 +18,7 @@
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/thehaseebahmed/thehaseebahmed/main/devcard.svg"
+      src="https://raw.githubusercontent.com/thehaseebahmed/thehaseebahmed/devcard/devcard.svg"
     />
   </a>
 </div>
@@ -26,6 +26,6 @@
 - Sr. Software Engineer at [Replenium Inc.](https://www.replenium.com/meet-the-team)
 - Loves brewing & consuming coffee!
 
-![Metrics](metrics.svg)
-![Most Used Languages](language.svg)
-![Achievements](achievements.svg)
+![Metrics](https://raw.githubusercontent.com/thehaseebahmed/thehaseebahmed/metrics/metrics.svg)
+![Most Used Languages](https://raw.githubusercontent.com/thehaseebahmed/thehaseebahmed/metrics/language.svg)
+![Achievements](https://raw.githubusercontent.com/thehaseebahmed/thehaseebahmed/metrics/achievements.svg)
