@@ -27,5 +27,5 @@
 - Loves brewing & consuming coffee!
 
 ![Metrics](metrics.svg)
-![Most Used Languages](languages.svg)
+![Most Used Languages](language.svg)
 ![Achievements](achievements.svg)
