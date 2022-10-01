@@ -23,7 +23,7 @@
   </a>
 </div>
 
-- Sr. Software Engineer at [Replenium Inc.](https://www.replenium.com/meet-the-team)
+- Sr. Software Engineer at [Lobster Ink](https://lobsterink.com/)
 - Loves brewing & consuming coffee!
 
 ![Metrics](https://raw.githubusercontent.com/thehaseebahmed/thehaseebahmed/metrics/stats.svg)
